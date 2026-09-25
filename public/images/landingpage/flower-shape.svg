@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="101" viewBox="0 0 102 101">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_23357" data-name="Rectangle 23357" width="102" height="101" rx="10" transform="translate(-0.055 0.081)" fill="#71318B"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_57047" data-name="Mask Group 57047" transform="translate(0.055 -0.081)" opacity="0.5" clip-path="url(#clip-path)">
+    <g id="_34746117_ea1t_7v8u_220918" data-name="34746117_ea1t_7v8u_220918" transform="translate(130.935 2.723) rotate(90)">
+      <g id="Group_66930" data-name="Group 66930" transform="translate(0 0)">
+        <g id="Group_66929" data-name="Group 66929" transform="translate(19.886 23.485)">
+          <g id="Group_66927" data-name="Group 66927">
+            <path id="Path_85147" data-name="Path 85147" d="M27.957,15.9C4.238,43.085,0,74.141,0,74.141s31.265,2.227,62.734-15.409c35.685-20,18.038-50.182,18.038-50.182S54.853-14.916,27.957,15.9Z" fill="#71318B" opacity="0.56"/>
+          </g>
+        </g>
+        <path id="Path_85149" data-name="Path 85149" d="M51.354,4.052C17.878,17.5,0,43.24,0,43.24S26.844,59.423,62.89,58c40.875-1.611,38.86-36.517,38.86-36.517S89.315-11.192,51.354,4.052Z" fill="#71318B" opacity="0.56"/>
+        <path id="Path_85152" data-name="Path 85152" d="M8.053,53.468C27.4,83.915,55.985,96.775,55.985,96.775s10.991-29.354,2.991-64.53C49.9-7.642,15.959.732,15.959.732S-13.887,18.943,8.053,53.468Z" transform="translate(86.576 15.808) rotate(31)" fill="#71318B" opacity="0.56"/>
+      </g>
+    </g>
+  </g>
+</svg>

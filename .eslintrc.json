@@ -1,0 +1,11 @@
+{
+  
+    "rules": {
+      "@next/next/no-page-custom-font": "off",
+      "@next/next/no-css-tags": "off",
+      "@next/next/no-sync-scripts": "off"
+    },
+  
+  
+  "extends": "next/core-web-vitals"
+}

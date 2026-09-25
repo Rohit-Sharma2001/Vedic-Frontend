@@ -1,0 +1,11 @@
+.star {
+    font-size: 30px; /* Size of the star */
+    color: gray; /* Default color for empty stars */
+    cursor: pointer; /* Make the stars clickable */
+    margin-right: 5px; /* Space between stars */
+  }
+  
+  .star.filled {
+    color: gold; /* Color for filled stars */
+  }
+  

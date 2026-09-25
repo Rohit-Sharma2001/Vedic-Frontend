@@ -1,0 +1,92 @@
+.shareLink ul>li img{
+    width: 25px;
+    min-width: 25px;
+}
+.cstmPagination button{
+    background-color: transparent !important;
+    border: none !important;
+    color: #000 !important;
+    margin: 0 2px;
+}
+
+.cstmPagination button.pageButtonLink{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    padding: 0;
+}  
+.cstmPagination button.pageButtonLink:hover{
+    background-color: #ececec !important;
+    color: #000 !important;
+} 
+.cstmPagination button.pageButtonLink.active{   
+    background-color: #71318B !important;
+    color: white !important;
+}
+
+.slick-slider .slick-track, 
+.slick-slider .slick-list{
+    height: 421.332px !important;
+}
+
+.prev-button1,
+.next-button1 {
+    background-color: transparent; /* No background for custom image buttons */
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    width: 40px; /* Ensure buttons match image size */
+    height: 40px; /* Ensure buttons match image size */
+}
+.prev-button1 img,
+.next-button1 img {
+    width: 89%; /* Ensure the image fits inside the button */
+    height: 89%;
+}
+.prev-button1 img:hover,
+.next-button1 img:hover {
+    opacity: 0.8; /* Slight hover effect */
+}
+.productsInner .contentproduct h3 {
+    color: #662A09;
+    font-size: 16px;
+    font-weight: 600;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    min-height: 34px;
+    margin: 0;
+}
+.journeyBox .contentproduct h3 {
+    color: #662A09;
+    font-size: 16px;
+    font-weight: 600;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    min-height: 34px;
+    margin: 0;
+}
+            
+            .journeyBox .contentproduct  h3 {
+                color: #662A09;
+                font-size: 16px;
+                font-weight: 600;
+                -webkit-line-clamp: 2;
+                overflow: hidden;
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                min-height: 34px;
+                margin: 0;
+            }
+
+.payment-hold{
+    background-color: #662A09;
+    font-size: 7px;
+    text-align: center;
+    color: white;
+    width: 33%;
+    border-radius: 2px;
+}
