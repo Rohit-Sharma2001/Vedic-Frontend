@@ -12,13 +12,13 @@ import "../../../LandingPage/public/css/style.css";
 const bannerData = [
   {
     title: "Ayurvedic Supplements",
-    subtitle: "Vedic Health Shop",
+    subtitle: "Vedic Yours Shop",
     description: "Want it today? Visit the Shop at our center, or call us at 240-753-0151 (24/7 answering).",
     imageUrl: "/images/landingpage/banner-image3.jpg",
   },
   {
     title: "Ayurvedic Supplements",
-    subtitle: "Vedic Health Shop",
+    subtitle: "Vedic Yours Shop",
     description: "Want it today? Visit the Shop at our center, or call us at 240-753-0151 (24/7 answering).",
     imageUrl: "/images/landingpage/banner-image3.jpg",
   },

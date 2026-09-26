@@ -162,7 +162,7 @@ export default function CartMethodPage() {
           <div className="row">
             <div className="col-lg-12 col-xl-7 mb-3">
               <div className="informationLeft">
-                <h6 className="fw-semibold mb-3">Vedic Health Ayurveda</h6>
+                <h6 className="fw-semibold mb-3">Vedic Yours Ayurveda</h6>
                 <hr className="mb-3" />
 
                 <div className="mb-3">

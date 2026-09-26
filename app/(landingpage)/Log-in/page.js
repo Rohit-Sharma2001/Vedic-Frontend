@@ -291,8 +291,8 @@ const handleLogin = async (e) => {
             <div className="loginFormBox">
               <div className="text-center mb-3">
                 <img
-                  src="/images/landingpage/vedic-health.png"
-                  alt="Vedic Health"
+                  src="/images/landingpage/Vedic-Yours.png"
+                  alt="Vedic Yours"
                   width="130"
                   style={{ cursor: "pointer" }}
                   onClick={() => router.push("/")}
@@ -419,7 +419,7 @@ const handleLogin = async (e) => {
           <div className="loginSec">
             <div className="loginFormBox">
               <div className="text-center mb-3">
-                <img src="images/vedic-health.png" alt="" width="130" />
+                <img src="images/Vedic-Yours.png" alt="" width="130" />
               </div>
               <h3>Forgot Password</h3>
               <p className="mb-4">
@@ -472,7 +472,7 @@ const handleLogin = async (e) => {
           <div className="loginSec">
             <div className="loginFormBox">
               <div className="text-center mb-3">
-                <img src="images/vedic-health.png" alt="" width="130" />
+                <img src="images/Vedic-Yours.png" alt="" width="130" />
               </div>
               <h3>Verify Email</h3>
               <p className="mb-3">  
@@ -560,7 +560,7 @@ Enter the OTP sent to your email ID to complete the password reset process.
           <div className="loginSec">
             <div className="loginFormBox">
               <div className="text-center mb-3">
-                <img src="images/vedic-health.png" alt="" width="130" />
+                <img src="images/Vedic-Yours.png" alt="" width="130" />
               </div>
               <h3>Reset Password</h3>
               <p className="mb-3">

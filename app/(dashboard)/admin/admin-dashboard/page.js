@@ -353,7 +353,7 @@ export default function AdminDashboardPage() {
           { label: 'Total Users', value: formatNumber(dashboardSummary?.totalUsers) },
           { label: 'Active Users', value: formatNumber(dashboardSummary?.activeUsers) },
           { label: 'Inactive Users', value: formatNumber(dashboardSummary?.inactiveUsers) },
-          { label: 'Vedic Health Team Members', value: formatNumber(dashboardSummary?.activeAdmin) },
+          { label: 'Vedic Yours Team Members', value: formatNumber(dashboardSummary?.activeAdmin) },
           { label: 'Total Practitioners', value: formatNumber(dashboardSummary?.totalPractitioners) },
           { label: 'Today Available Practitioners', value: formatNumber(dashboardSummary?.todayAvailablePractitioners) },
         //   { label: 'Active Members', value: formatNumber(dashboardSummary?.activeMembers) },

@@ -107,7 +107,7 @@ console.log("response",response)
                   />
                 </figure>
                 <div className="healthHeading mb-3">
-                  <h2 className=" mb-2">Vedic Health</h2>
+                  <h2 className=" mb-2">Vedic Yours</h2>
                   <span>{formData?.title}</span>
                 </div>
                 {/* <p>Yoga transmutes animal nature into divine nature and raises a sadhaka to the heights of
@@ -158,7 +158,7 @@ console.log("response",response)
 </div>
 
                     <div className="healthHeading text-start mb-3">
-                      <h2 className="mb-1">Vedic Health</h2>
+                      <h2 className="mb-1">Vedic Yours</h2>
                       <span>{featuredPost.title}</span>
                     </div>
                   </>

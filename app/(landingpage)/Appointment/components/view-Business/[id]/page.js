@@ -415,12 +415,12 @@ console.log("all staff members",res?.data?.employeeData)
               <div className="mt-4 descriptionSection">
                 <h3 className="mb-1 fs-5 fw-semibold">Description</h3>
                 <p className="fs-8">
-                  Vedic Health is a natural healing center that offers Ayurvedic
+                  Vedic Yours is a natural healing center that offers Ayurvedic
                   and holistic health services to help those suffering from
                   chronic conditions. We offer health consultations, herbal
                   supplements, panchakarma, yoga and meditation classes, energy
                   healing, mental health counseling, community events and more.
-                  Vedic Health is a 501(c)3 nonprofit founded by Amita Jain.
+                  Vedic Yours is a 501(c)3 nonprofit founded by Amita Jain.
                 </p>
              <div className="accordion" id="accordionExample">
   {Array.isArray(faqs) && faqs.length > 0 && faqs.map((item, index) => {

@@ -56,7 +56,7 @@ const MainBanner = () => {
           <div key={item._id}>
             <div
               className="bannerImage"
-              style={{ backgroundImage: `url(${process.env.NEXT_PUBLIC_API_URL}/${item.file.replace(/\\/g, "/")})` }}
+              style={{ backgroundImage: `url(/images/landingpage/main-banner.JPG)` }}
             >
               <div className="bannerTxt">
                 <span>{item.org_title}</span>

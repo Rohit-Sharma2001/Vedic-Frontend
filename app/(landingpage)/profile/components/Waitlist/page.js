@@ -314,7 +314,7 @@ const getTomorrowYMD = (d = new Date()) => {
                     </div>
                   </figure>
                   <div className="appointmentprcetxt">
-                    <strong>Vedic Health Ayurveda</strong>
+                    <strong>Vedic Yours Ayurveda</strong>
 
                     {/* ✅ ADD THIS */}
                     <p className="mb-1">

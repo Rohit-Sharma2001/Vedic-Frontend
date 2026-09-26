@@ -166,7 +166,7 @@ useEffect(() => {
                pathname.includes("ContactAmita") ||
           pathname.includes("AmitaHome")
         ? "/images/landingpage/Amita-Jain-logo.png"
-        : "/images/landingpage/vedic-health.png"
+        : "/images/landingpage/Vedic-Yours.png"
     }
     width={160}
     height={"30px"}

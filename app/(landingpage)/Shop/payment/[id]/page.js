@@ -906,7 +906,7 @@ export default function CartMethodPage() {
             {/* Left Column */}
             <div className="col-lg-12 col-xl-7 mb-3">
               <div className="informationLeft">
-                <h6 className="fw-semibold mb-3">Vedic Health Ayurveda</h6>
+                <h6 className="fw-semibold mb-3">Vedic Yours Ayurveda</h6>
                 <hr className="mb-3" />
 
                 <label className="mb-3 fw-medium">Shipping Information</label>
@@ -1389,7 +1389,7 @@ export default function CartMethodPage() {
                       checked={refundPolicy}
                     />
                     <label htmlFor="termCheck3" className="fw-medium my-4">
-                      By clicking &#39;Buy Now&#39; I agree to the Vedic Health{" "}
+                      By clicking &#39;Buy Now&#39; I agree to the Vedic Yours{" "}
                       <span
                         className="hyperlink"
                         onClick={async (e) => {

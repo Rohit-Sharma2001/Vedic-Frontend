@@ -147,7 +147,7 @@ console.log(data?.paymentDetails?.card,"data?.paymentDetails?.card?.brand")
                         borderBottom: "1px solid #C2C2C2"
                       }}
                     >
-                      <img src="/images/landingpage/vedic-health.png" width={180} />
+                      <img src="/images/landingpage/Vedic-Yours.png" width={180} />
                     </td>
                     <td
                       style={{
@@ -275,7 +275,7 @@ console.log(data?.paymentDetails?.card,"data?.paymentDetails?.card?.brand")
                   <tr>
                     <td align="left" style={{ padding: 15, paddingTop: 0 }}>
                       <span style={{ fontSize: 14, fontWeight: "bold", color:"#000" }}>
-                        Vedic Health Inc.
+                        Vedic Yours Inc.
                       </span>
                       <br />
                       {footerData?.address && (

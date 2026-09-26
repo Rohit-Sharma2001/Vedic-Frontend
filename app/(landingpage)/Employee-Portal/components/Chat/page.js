@@ -17,7 +17,7 @@ export default function EmployeeChat() {
        <div className="">
       <div className="mainHeaderchat d-flex flex-wrap justify-content-between align-items-center">
             <div className="logoLeft">
-                <img src="/images/landingpage/vedic-health.png" alt="" width="160"/>
+                <img src="/images/landingpage/Vedic-Yours.png" alt="" width="160"/>
             </div>
              {/* <div className="userSearch">
                 <input type="text" className="form-control" placeholder="Search People"/>

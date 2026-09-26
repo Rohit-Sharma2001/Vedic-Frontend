@@ -1055,7 +1055,7 @@ export default function MyAppointments() {
                             <img src={`${process.env.NEXT_PUBLIC_API_URL}/${appt?.employee?.userDetails?.file}`} alt="" />
                           </figure>
                           <div className="appointmentprcetxt">
-                            <strong>Vedic Health Ayurveda</strong>
+                            <strong>Vedic Yours Ayurveda</strong>
                             <p>{appt?.service?.name || "Service"}</p>
                             <strong>with {appt?.employee?.userDetails?.name || "Employee"}</strong>
                             {appt?.familyMemberId ?
@@ -1200,7 +1200,7 @@ export default function MyAppointments() {
                             <img src={`${process.env.NEXT_PUBLIC_API_URL}/${appt?.employee?.userDetails?.file}`} alt="" />
                           </figure>
                           <div className="appointmentprcetxt">
-                            <strong>Vedic Health Ayurveda</strong>
+                            <strong>Vedic Yours Ayurveda</strong>
                             <p>{appt?.service?.name || "Service"}</p>
                             <strong>with {appt?.employee?.userDetails?.name || "Employee"}</strong>
                             <p className="text-muted fs-8">
@@ -1334,7 +1334,7 @@ export default function MyAppointments() {
                           </figure>
 
                           <div className="appointmentprcetxt">
-                            <strong>Vedic Health Ayurveda</strong>
+                            <strong>Vedic Yours Ayurveda</strong>
 
                             {/* SERVICE */}
                             <p>{appt?.service?.name}</p>

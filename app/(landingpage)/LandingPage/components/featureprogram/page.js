@@ -35,7 +35,7 @@ const FeatureProgram = () => {
           button_label: response.Banner?.button_label || '',
           button_route: response.Banner?.button_route || '',
         });
-        setImagePreview(response.Banner?.file ? `${process.env.NEXT_PUBLIC_API_URL}/${response.Banner.file}` : null);
+        setImagePreview(`/images/landingpage/about-img.JPG`);
       }
     } catch (error) {
       console.error('Error fetching initial data:', error);
@@ -53,12 +53,12 @@ const FeatureProgram = () => {
       <div className="featureProgram">
         <div className="container">
           <div className="row align-items-center">
-            <div className="col-md-7 col-lg-8">
+            <div className="col-md-6 col-lg-8">
               <figure className="mb-0">
                 <img src={imagePreview} alt="Banner" />
               </figure>
             </div>
-            <div className="col-md-5 col-lg-4">
+            <div className="col-md-6 col-lg-4">
               <div className="section-heading text-start pb-0">
                 <img src="/images/landingpage/watermark.png" width={40} className="d-block" alt="Watermark" />
                 <h2>{formData?.title}</h2>

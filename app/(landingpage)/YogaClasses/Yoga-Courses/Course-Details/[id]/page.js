@@ -283,7 +283,7 @@ const CourseDetails = () => {
                       course?.availableInMemberships?.length > 0 && (
                         <>
                           <p className="fs-8 fw-semibold mb-1">
-                            Unlock more transformative courses by subscribing to Vedic Health today.
+                            Unlock more transformative courses by subscribing to Vedic Yours today.
                           </p>
                           <p className="fs-9">
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.

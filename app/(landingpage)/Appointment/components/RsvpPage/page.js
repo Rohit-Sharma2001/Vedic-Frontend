@@ -56,14 +56,14 @@ const RsvpPage = () => {
                     <div className="contentRsvp mt-4">
                         <h2 className="fs-7">Date & Location</h2>
                         <p className="m-0">May 10, 2025, 10:00 AM – 11:00 AM EDT </p>
-                        <p>Vedic Health Center, 15235 Shady Grove Road, Suite 100, Rockville MD 20850</p>
+                        <p>Vedic Yours Center, 15235 Shady Grove Road, Suite 100, Rockville MD 20850</p>
                     </div>
                     <div className="contentRsvp mt-4">
                         <h2 className="fs-7">About The Event</h2>
-                        <p className="m-0 fw-medium mb-1"><b> Host:</b> Amita Jain, Founder Vedic Health, Doctor of
+                        <p className="m-0 fw-medium mb-1"><b> Host:</b> Amita Jain, Founder Vedic Yours, Doctor of
                             Ayurveda </p>
                         <p className="m-0 fw-medium mb-1"><b>Format:</b> In Person Seminar</p>
-                        <p className="m-0 fw-medium"><b> Place:</b> Vedic Health Center, Rockville, MD</p>
+                        <p className="m-0 fw-medium"><b> Place:</b> Vedic Yours Center, Rockville, MD</p>
                     </div>
                 </div>
             </div>

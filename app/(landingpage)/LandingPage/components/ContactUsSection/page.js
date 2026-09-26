@@ -37,7 +37,7 @@ const ContactSection = () => {
       <div className="container">
         <div className="section-heading pb-0">
           <img src="/images/landingpage/watermark.png" width="50" className="d-block mx-auto" alt="Watermark" />
-          <h2 className="mb-2">Vedic Health Ayurved</h2>
+          <h2 className="mb-2">Vedic Yours Ayurved</h2>
           <p>Natural Healing Center</p>
         </div>
 

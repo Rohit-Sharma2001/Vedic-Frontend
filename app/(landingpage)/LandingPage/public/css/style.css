@@ -401,7 +401,18 @@ textarea {
 }
 
 .featureProgram {
-    margin: 60px 0;
+    margin: 200px 0;
+}
+@media (min-width: 768px) {
+    .mb-md-0 {
+        margin-bottom: 0 !important;
+    }
+}
+@media (min-width: 768px) {
+    .col-md-6 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
 }
 
 .featureProgram figure {
@@ -9976,3 +9987,99 @@ input.calenderDte[type="date"] {
 }
 
 
+.DesignCard {
+    margin: -90px 0;
+}
+
+.DesignCard figure {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 6px #00000029;
+}
+
+.DesignCard p {
+    font-family: "Poppins", serif;
+    font-style: normal;
+    margin-bottom: 20px;
+}
+
+
+.yoga-actions {
+    margin-top: -80px;
+}
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1320px;
+    }
+}
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1140px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 960px;
+    }
+}
+@media (min-width: 768px) {
+    .container, .container-md, .container-sm {
+        max-width: 720px;
+    }
+}
+@media (min-width: 576px) {
+    .container, .container-sm {
+        max-width: 540px;
+    }
+}
+.g-0, .gy-0 {
+    --bs-gutter-y: 0;
+}
+
+.action-green::before {
+    background: rgba(34, 197, 94, 0.5);
+}
+.action-blue::before {
+    background: rgba(59, 130, 246, 0.5);
+}
+.action-pink::before {
+    background: rgba(236, 72, 153, 0.5);
+}
+.action-teal::before {
+    background: rgba(20, 184, 166, 0.5);
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.action-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    /* background: rgba(0, 0, 0, 0.3); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.action-card {
+    height: 180px;
+    display: flex;
+    align-items: flex-end;
+    padding: 20px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+
+.action-card h5 {
+    position: relative;
+    z-index: 2;
+    font-size: 26px;
+    font-weight: 700;
+}

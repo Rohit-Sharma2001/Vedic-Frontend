@@ -1033,7 +1033,7 @@ export default function EmeployeePortal() {
                                 <div className="row">
                                     <div className="col-lg-12 col-xl-7 mb-3">
                                         <div className="informationLeft ">
-                                            <h6 className="fw-semibold mb-3">Vedic Health Ayureveda</h6>
+                                            <h6 className="fw-semibold mb-3">Vedic Yours Ayureveda</h6>
                                             <hr className="mb-3" />
                                             {/* <div className="mb-3">
                                                 <label className="mb-3 fw-medium fs-7">
@@ -1579,7 +1579,7 @@ export default function EmeployeePortal() {
                                                                 className="me-3"
                                                                 width={16}
                                                             />
-                                                            Vedic Health Ayurveda 15235 Shady Grove Road,
+                                                            Vedic Yours Ayurveda 15235 Shady Grove Road,
                                                             Rockville, MD 20850
                                                         </span>
                                                     </div>
@@ -1839,7 +1839,7 @@ export default function EmeployeePortal() {
                                                         checked={refundPolicy}
                                                     />
                                                     <label htmlFor="termCheck3" className="fw-medium my-4">
-                                                        By clicking &#39;Buy Now&#39; I agree to the Vedic Health{" "}
+                                                        By clicking &#39;Buy Now&#39; I agree to the Vedic Yours{" "}
                                                         <span
                                                             className="hyperlink"
                                                             onClick={async (e) => {

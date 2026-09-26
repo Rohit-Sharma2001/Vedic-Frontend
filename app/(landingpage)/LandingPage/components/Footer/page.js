@@ -131,9 +131,9 @@ const FooterSection = () => {
              <img 
    src={pathname.includes("YogaClasses") 
      ? "/images/landingpage/vedic-yoga.png" 
-     : "/images/landingpage/vedic-health.png"} 
+     : "/images/landingpage/Vedic-Yours.png"} 
    alt="Vedic Logo" 
-   width={200} 
+   width={100} 
  />
             </figure>
           <ul style={{ padding: 0 }}>
@@ -300,7 +300,7 @@ const FooterSection = () => {
         <div className="row copyrightTxt">
           <div className="col-md-6 ">
             <p className="mb-0">
-              Copyright @2023 Vedic Health Inc. All Rights Reserved.
+              Copyright @2023 Vedic Yours Inc. All Rights Reserved.
             </p>
           </div>
           <div className="col-md-6 ">

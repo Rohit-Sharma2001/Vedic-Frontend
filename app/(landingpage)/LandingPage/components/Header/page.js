@@ -190,9 +190,9 @@ const Header = ({ arrayheader }) => {
                 pathname.includes("/LandingPage/components/ArticleDetails/") ||
           pathname.includes("AmitaHome")
         ? "/images/landingpage/Amita-Jain-logo.png"
-        : "/images/landingpage/vedic-health.png"
+        : "/images/landingpage/Vedic-Yours.png"
     }
-    width={70}
+    width={60}
     height={"50px"}
     alt="Vedic Logo"
   />

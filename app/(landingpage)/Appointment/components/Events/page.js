@@ -44,7 +44,7 @@ const Events = () => {
                     <b><img src="/images/landingpage/mantra-icon.svg" alt="" width="13" className="me-1"/> Tue, May 27, 2025 - 6:45 PM -
                         7:45 PM</b>
                     <h1>Create your own Yantra: Journey into Sacred Geomtery</h1>
-                    <p className="fs-9"><img src="/images/landingpage/mantra-icon1.svg" alt="" width="14" className="me-1"/> Vedic Health
+                    <p className="fs-9"><img src="/images/landingpage/mantra-icon1.svg" alt="" width="14" className="me-1"/> Vedic Yours
                         Center</p>
                     <button type="button" className="btn btn btn-primary appointment px-5 fw-semibold">RSVP</button>
                 </div>
@@ -105,7 +105,7 @@ const Events = () => {
                                 way to use
                                 them to fulfil your desires. Spaces are limited—reserve your spot today! Free for
                                 Members.</p>
-                            <span>Thu, Apr 10 | Vedic Health Center</span>
+                            <span>Thu, Apr 10 | Vedic Yours Center</span>
                             <a href="" className="btn btn-primary">RSVP</a>
                         </div>
                     </div>
@@ -118,7 +118,7 @@ const Events = () => {
                                 infuse your intentions, energy, and creativity into a powerful symbolic representation.
                                 Spots
                                 limited, registration required. Free for Members.</p>
-                            <span>Thu, Apr 17 | Vedic Health Center</span>
+                            <span>Thu, Apr 17 | Vedic Yours Center</span>
                             <a href="" className="btn btn-primary">RSVP</a>
                         </div>
                     </div>
@@ -128,7 +128,7 @@ const Events = () => {
                             <h3>SSL Day for Students</h3>
                             <p>Our next SSL Day for students is coming up and open to middle and high school students
                                 (registration in advance is required).</p>
-                            <span>Thu, Apr 21 | Vedic Health Center</span>
+                            <span>Thu, Apr 21 | Vedic Yours Center</span>
                             <a href="" className="btn btn-primary">RSVP</a>
                         </div>
                     </div>
@@ -138,7 +138,7 @@ const Events = () => {
                             <h3>Seminar: Dosha Series - Explore Pitta Dosha</h3>
                             <p>Our next SSL Day for students is coming up and open to middle and high school students
                                 (registration in advance is required).</p>
-                            <span>Thu, Apr 21 | Vedic Health Center</span>
+                            <span>Thu, Apr 21 | Vedic Yours Center</span>
                             <a href="" className="btn btn-primary">RSVP</a>
                         </div>
                     </div>

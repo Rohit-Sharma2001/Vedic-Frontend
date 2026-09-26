@@ -59,7 +59,7 @@ export default function PractitionerHeader({onSearch}) {
           className="navbar-brand p-0 d-flex flex-column align-items-start brandWrap"
         >
           <img
-            src={"/images/landingpage/vedic-health.png"}
+            src={"/images/landingpage/Vedic-Yours.png"}
             width={160}
             height={"30px"}
             alt="Vedic Logo"

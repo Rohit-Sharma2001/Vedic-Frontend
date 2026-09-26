@@ -16,6 +16,7 @@ import AboutAmita from "./components/MeetAmita/page";
 import Resources from "./components/Resources/page";
 import HealingIsBelieving from "./components/HealingBelieve/page";
 import FooterSection from "./components/Footer/page";
+import DesignCard from "./components/DesignCard/page";
 const LandingPage = () => {
  const arrayheader = [
   { name: "Ayurveda", route: "/LandingPage/components/AyurvedaHealing" },
@@ -48,6 +49,7 @@ const LandingPage = () => {
     <>
       <Header  arrayheader={arrayheader}/>
       <MainBanner />
+      <DesignCard/>
       <FeatureProgram />
       <BeginYourJourney />
       <AyurvedicServices />

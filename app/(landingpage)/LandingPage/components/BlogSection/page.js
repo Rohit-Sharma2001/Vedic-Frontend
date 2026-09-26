@@ -41,7 +41,7 @@ const BlogSection = ({ blogs, recentblogs, filteredblogs,id }) => {
                 />
               </figure>
               <div className="healthHeading mb-3">
-                <h2 className="mb-2">Vedic Health</h2>
+                <h2 className="mb-2">Vedic Yours</h2>
                 <span>{blogs?.title}</span>
               </div>
               <div className="blogContent" style={{ color: "black" }}>
@@ -148,7 +148,7 @@ const BlogSection = ({ blogs, recentblogs, filteredblogs,id }) => {
                 </ul>
 
                 <p>
-                  Consult your Ayurvedic Health Practitioner for personalized
+                  Consult your Ayurvedic Yours Practitioner for personalized
                   advice.
                 </p>
               </div>
